@@ -32,7 +32,8 @@ const MODEL_MAPPING = {
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
   'qwencoder-2.6': 'moonshotai/kimi-k2.6',
   'cosmosrp-4.0-nvidia': 'deepseek-ai/deepseek-v4-pro',
-  'cosmosrp-4.0-flash': 'deepseek-ai/deepseek-v4-flash'
+  'cosmosrp-4.0-flash': 'deepseek-ai/deepseek-v4-flash',
+  'zaipa-5.1-roleplay': 'z-ai/glm-5.1'
 };
 
 // Health check endpoint
