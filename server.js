@@ -30,8 +30,8 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
-  'qwencoder-2.6': 'moonshotai/kimi-k2.6',
-  'cosmosrp-4.0-nvidia': 'deepseek-ai/deepseek-v4-pro',
+  'cheese-2.6': 'moonshotai/kimi-k2.6',
+  'cosmosrp-4.0-pro': 'deepseek-ai/deepseek-v4-pro',
   'cosmosrp-4.0-flash': 'deepseek-ai/deepseek-v4-flash',
   'zaipa-5.1-roleplay': 'z-ai/glm-5.1'
 };
