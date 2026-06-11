@@ -33,7 +33,8 @@ const MODEL_MAPPING = {
   'cheese-2.6': 'moonshotai/kimi-k2.6',
   'cosmosrp-4.0-pro': 'deepseek-ai/deepseek-v4-pro',
   'cosmosrp-4.0-flash': 'deepseek-ai/deepseek-v4-flash',
-  'zaipa-5.1-roleplay': 'z-ai/glm-5.1'
+  'zaipa-5.1-roleplay': 'z-ai/glm-5.1',
+  'duiyan-3.5': 'qwen/qwen3.5-397b-a17b'
 };
 
 // Health check endpoint
